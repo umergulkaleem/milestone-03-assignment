@@ -52,7 +52,7 @@ const Page = () => {
           desert and the Arabian Sea is truly breathtaking.
           <br />
           <strong>Cultural Significance:</strong> The formation stands as a
-          testament to the region's geological history and cultural legends.
+          testament to the regions geological history and cultural legends.
           <br />
           <strong>Adventure:</strong> Perfect for explorers and photographers
           seeking unique natural wonders.
