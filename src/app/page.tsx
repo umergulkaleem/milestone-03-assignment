@@ -6,11 +6,11 @@ export default function Home() {
     <div className="bg-gray-200 p-4 ">
       <h1 className="text-3xl font-bold text-center text-indigo-800 my-4">
         Embark on Epic Adventures: From the Iconic Peaks of Mount Fuji to the
-        Enigmatic Desert Marvels of Balochistan{" "}
+        Enigmatic Desert Marvels of Balochistan
       </h1>
       <p className="text-center text-lg text-gray-700 mb-8">
-        Dive into a world of wonder and discovery. Whether you're captivated by
-        Japan's majestic Mount Fuji or intrigued by the Princess of Hope in
+        Dive into a world of wonder and discovery. Whether youre captivated by
+        Japans majestic Mount Fuji or intrigued by the Princess of Hope in
         Balochistan, our travel blog guides you through iconic landmarks,
         thrilling adventures, and breathtaking landscapes. Unearth the stories,
         secrets, and serene beauty that these destinations hold. Your journey of
@@ -30,7 +30,7 @@ export default function Home() {
               Mount Fuji
             </h2>
             <p className="text-center text-gray-600">
-              The Majestic Mount Fuji: Japan's Iconic Peak
+              The Majestic Mount Fuji: Japans Iconic Peak
             </p>
           </div>
         </Link>
@@ -47,7 +47,7 @@ export default function Home() {
               Princess of Hope
             </h2>
             <p className="text-center text-gray-600">
-              The Enigmatic Princess of Hope: Balochistan's Natural Marvel
+              The Enigmatic Princess of Hope: Balochistans Natural Marvel
             </p>
           </div>
         </Link>
