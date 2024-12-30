@@ -25,7 +25,7 @@ const Page = () => {
       <div className="bg-gray-200 p-6">
         <div className="text-center mb-6">
           <h1 className="text-3xl font-bold text-indigo-800">
-            The Enigmatic Princess of Hope: Balochistan's Natural Marvel
+            The Enigmatic Princess of Hope: Balochistans Natural Marvel
           </h1>
         </div>
         <div className="flex justify-center mb-6">
@@ -38,7 +38,7 @@ const Page = () => {
           />
         </div>
         <p className="text-lg text-gray-700 leading-relaxed max-w-4xl mx-auto">
-          Journey to Pakistan's Balochistan province, and you'll encounter the
+          Journey to Pakistans Balochistan province, and you will encounter the
           striking landscape of Hingol National Park. Amidst its rugged terrain
           stands an awe-inspiring rock formation known as the Princess of Hope.
           This natural sculpture, named by Hollywood actress Angelina Jolie
@@ -70,7 +70,7 @@ const Page = () => {
           Makran Coastal Highway.
         </p>
         <p className="text-lg text-gray-700 leading-relaxed max-w-4xl mx-auto mt-4">
-          Embark on a journey to Pakistan's desert marvel, and discover the
+          Embark on a journey to Pakistans desert marvel, and discover the
           stories and secrets this iconic landmark holds. Whether you seek
           adventure, culture, or serene landscapes, the Princess of Hope offers
           experiences that will enrich your soul and ignite your wanderlust.

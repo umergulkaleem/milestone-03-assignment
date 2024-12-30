@@ -23,7 +23,7 @@ const Page = () => {
       </Link>
       <div className="text-center mb-6">
         <h1 className="text-3xl font-bold text-indigo-800">
-          The Majestic Mount Fuji: Japan's Iconic Peak
+          The Majestic Mount Fuji: Japans Iconic Peak
         </h1>
       </div>
       <div className="flex justify-center mb-6">
@@ -36,10 +36,10 @@ const Page = () => {
         />
       </div>
       <p className="text-lg text-gray-700 leading-relaxed max-w-4xl mx-auto">
-        Mount Fuji, or Fuji-san as it's reverently called in Japan, is more than
-        just a mountain—it's a cultural and spiritual symbol that has inspired
+        Mount Fuji, or Fuji-san as its reverently called in Japan, is more than
+        just a mountain—its a cultural and spiritual symbol that has inspired
         art, poetry, and pilgrimage for centuries. Standing at 3,776 meters,
-        Mount Fuji is Japan's highest peak and an active stratovolcano that last
+        Mount Fuji is Japans highest peak and an active stratovolcano that last
         erupted in 1707.
       </p>
       <p className="text-lg text-gray-700 leading-relaxed max-w-4xl mx-auto mt-4">
@@ -52,7 +52,7 @@ const Page = () => {
         <strong>Cultural Significance:</strong> It is a UNESCO World Heritage
         Site and a sacred site for Shintoism and Buddhism.
         <br />
-        <strong>Adventure & Leisure:</strong> Whether you're an avid hiker ready
+        <strong>Adventure & Leisure:</strong> Whether youre an avid hiker ready
         to conquer the summit or a leisure traveler wanting to explore the
         surrounding lakes and hot springs, Mount Fuji caters to all.
       </p>
@@ -69,10 +69,10 @@ const Page = () => {
         Trees, this forest offers fascinating caves and serene hikes.
       </p>
       <p className="text-lg text-gray-700 leading-relaxed max-w-4xl mx-auto mt-4">
-        Embark on a journey to Japan's revered peak, and discover the stories
-        and secrets this iconic landmark holds. Whether you seek adventure,
-        culture, or serene landscapes, Mount Fuji offers experiences that will
-        enrich your soul and ignite your wanderlust.
+        Embark on a journey to Japans revered peak, and discover the stories and
+        secrets this iconic landmark holds. Whether you seek adventure, culture,
+        or serene landscapes, Mount Fuji offers experiences that will enrich
+        your soul and ignite your wanderlust.
       </p>
       <div className="mt-8">
         <h2 className="text-2xl font-semibold text-indigo-800">Comments</h2>
